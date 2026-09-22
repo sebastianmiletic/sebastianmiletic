@@ -1,6 +1,6 @@
 <div align="center">
 
-# Sebastian Miletic
+# readme
 
 `native desktop software · terminal engineering · mathematical visualization`
 
